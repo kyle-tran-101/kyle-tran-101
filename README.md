@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Kiet (Kyle) Tran from VN<br><br>- 🔭 I’m working as Web developer in [Omnia](https://www.omniaintranet.com/omnia)<br>- 📚 I'm currently learning Computer Science @HCMUT<br>- ⚡ In my free time I ...</p>
 
 ###
 
